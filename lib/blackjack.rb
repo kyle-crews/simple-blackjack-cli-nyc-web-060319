@@ -61,7 +61,4 @@ def runner
     display_card_total(card_total)
   end
   end_game(card_total) #prints out once user has lost
-end
-
-runner
-    
+end    
